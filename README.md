@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
 
-You can use the [editor on GitHub](https://github.com/sundayong/sundayong.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+*This text will be italic*
+_This will also be italic_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**This text will be bold**
+__This will also be bold__
 
-### Markdown
+_You **can** combine them_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+  
+  
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a 
+   1. Item 3b
+   
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
-```markdown
-Syntax highlighted code block
+_**123**
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+~~123131~~
 
-1. Numbered
-2. List
+_123131_
 
-**Bold** and _Italic_ and `Code` text
+`12313213`
 
-[Link](url) and ![Image](src)
+
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+I think you should use an
+ `<addr>` element here instead.
+ 
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sundayong/sundayong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+   
+   
