@@ -10,4 +10,4 @@
 #### rpm -ivh --nodeps https://mirrors.aliyun.com/centos/7.7.1908/os/x86_64/Packages/yum-plugin-fastestmirror-1.1.31-52.el7.noarch.rpm
 
 ## 阿里云yum文件地址
-#### mirrors.ustc.edu.cn/centos/7.7.1908/os/x86_64/Packages/
+#### https://mirrors.ustc.edu.cn/centos/7.7.1908/os/x86_64/Packages/
